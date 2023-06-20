@@ -16,9 +16,9 @@ This code book summarizes the resulting data fields in `tidy.txt`.
 
 ## Activity Labels
 
-* `WALKING` (value `1`): subject walked
-* `WALKING_UPSTAIRS` (value `2`): subject walked up staircase 
-* `WALKING_DOWNSTAIRS` (value `3`): subject walked down  staircase 
-* `SITTING` (value `4`): subject sitting 
-* `STANDING` (value `5`): subject standing 
-* `LAYING` (value `6`): subject laying down 
+* `WALKING` (`1`): walked
+* `WALKING_UPSTAIRS` (`2`): walked up staircase 
+* `WALKING_DOWNSTAIRS` (`3`): walked down staircase 
+* `SITTING` (`4`): sitting 
+* `STANDING` (`5`): standing 
+* `LAYING` (`6`): laying down 
