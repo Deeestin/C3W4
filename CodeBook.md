@@ -1,6 +1,6 @@
-# Code Book
+#### Code Book
 
-##Data was obtained from the following sources:
+## Data was obtained from the following sources:
 
   http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
@@ -15,7 +15,7 @@ This code book summarizes the resulting data fields in `tidy_data.txt`.
 * `activity` - The type of activity performed when the corresponding measurements were taken
 
 
-##Used datasets of the original zip file linked in ReadMe.md
+## Used datasets of the original zip file linked in ReadMe.md
 
 * `'features_info.txt'`
 * `'features.txt'`
