@@ -7,7 +7,7 @@
   https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
   
 
-This code book summarizes the resulting data fields in `tidy.txt`.
+This code book summarizes the resulting data fields in `tidy_data.txt`.
 
 ## Identifiers
 
