@@ -49,3 +49,6 @@ allData.mean <- dcast(allData.melted, subject + activity ~ variable, mean)
 
 write.table(allData.mean, "tidy_dataset.txt", row.names = FALSE, quote = FALSE)
 
+## Check everything
+str(FinalData)
+summary (FinalData)
