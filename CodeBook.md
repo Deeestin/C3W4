@@ -14,6 +14,22 @@ This code book summarizes the resulting data fields in `tidy_data.txt`.
 * `subject` - The ID of the test subject
 * `activity` - The type of activity performed when the corresponding measurements were taken
 
+
+##Used datasets of the original zip file linked in ReadMe.md
+
+* `'features_info.txt'`
+* `'features.txt'`
+* `'activity_labels.txt'`
+* `'train/x_train.txt'`
+* `'train/y_train.txt'`
+* `'test/x_test.txt'`
+* `'test/y_test.txt'`
+* `'train/subject_train.txt'`
+* `test/subject_test.txt`
+
+
+
+
 ## Activity Labels
 
 * `WALKING` (`1`): walked
