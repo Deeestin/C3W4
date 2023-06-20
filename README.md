@@ -1,12 +1,12 @@
-####ReadME
+#### ReadME
 
-##This repository was created as assignment for the course project for 
-##Getting and Cleaning Data Coursera course
+## This repository was created as assignment for the course project for 
+## Getting and Cleaning Data Coursera course
 
 This repository was created as assignment for the course project for 
 Getting and Cleaning Data Coursera course
 
-##Assignment
+## Assignment
 
 You should create one R script called run_analysis.R that does the following. 
 
