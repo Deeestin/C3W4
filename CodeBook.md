@@ -35,23 +35,19 @@ This code book summarizes the resulting data fields in `tidy_data.txt`.
 
 ## Steps
 
-#### Download the dataset
+#### Downloading the dataset
 
-#### Assign each data to variables
+#### Assigning each data to variables
 
-#### Merges the training and the test sets to create one data set
-X (10299 rows, 561 columns) is created by merging x_train and x_test (by using rbind() function)
-Y (10299 rows, 1 column) is created by merging y_train and y_test (by using rbind() function)
-Subject (10299 rows, 1 column) is created by merging subject_train and subject_test (by using rbind() function)
-Merged_Data (10299 rows, 563 column) is created by merging Subject, Y and X (by using cbind() function)
+#### Merging the training and the test sets to create one data set
 
-#### Extracts only the measurements on the mean and standard deviation for each measurement
+#### Extracting only the measurements on the mean and standard deviation for each measurement
 TidyData (10299 rows, 88 columns) is created by subsetting Merged_Data, selecting only columns: subject, code and the measurements on the mean and standard deviation (std) for each measurement
 
-#### Uses descriptive activity names to name the activities in the data set
+#### Using descriptive activity names to name the activities in the data set
 Entire numbers in code column of the TidyData replaced with corresponding activity taken from second column of the activities variable
 
-#### Appropriately labels the data set with descriptive variable names
+#### Labeling the data set with descriptive variable names
 
 #### Creating an independent tidy dataset with the average of each variable for each activity and each subject
 Tidy dataset can be found as `tidy_dataset` in repo

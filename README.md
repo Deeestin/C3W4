@@ -18,6 +18,8 @@ You should create one R script called run_analysis.R that does the following.
 
 ### Further information
 
-`CodeBook.md` includes information describing the variables, how the code works, and how the data was obtained
-`run_analysis.R` includes the relevant code that can be run as long as the Samsung data is in your working directory
-`tidy_dataset.txt` is the tidied final data after going through all the steps decribed in the Assignment section above 
+`CodeBook.md` includes information describing the variables, how the code works, and how the data was obtained.
+
+`run_analysis.R` includes the relevant code that can be run as long as the Samsung data is in your working directory.
+
+`tidy_dataset.txt` is the tidied final data after going through all the steps decribed in the Assignment section above.
